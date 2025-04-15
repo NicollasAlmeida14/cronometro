@@ -30,6 +30,7 @@ body {
     justify-content: center;
     background-color: #14FFEC;
     border: solid 4px #393E46;
+    font-size: 30px;
 }
 
 #buttons {
@@ -55,4 +56,31 @@ button:hover {
 
 button:active {
     transform: translateY(0);
+}
+
+@media (max-width:500px) {
+    #stopwatch {
+        background-color: #393E46;
+    }
+
+    #timer {
+        border-radius: 8px;
+        border: none;
+        width: max-content;
+        height: max-content;
+        padding: 1rem;
+    }
+
+    h2 {
+        font-size: 50px;
+    }
+
+    button {
+        font-size: 30px;
+    }
+
+    button:hover,
+    button:active {
+        transform: none;
+    }
 }
