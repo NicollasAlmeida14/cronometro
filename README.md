@@ -1,6 +1,6 @@
 <h1>Cronômetro ⏱️</h1>
 <br>
-<h2></h2>
+<h2>Apesar de ser um projeto simples, este cronometro é um projeto especial, pois me permitiu melhorar a minha lógica de programação e me desafiar para concluí-lo!</h2>
 <br>
 <h3>Linguagens utilizadas:</h3>
 <div>
@@ -11,9 +11,9 @@
 <br>
 <h3>Aqui estão algumas imagens do projeto:</h3>
 <div>
-<img src= "" width= "500px"  alt= "imagem-projeto-desktop">
-<img src= "" height= "300px" alt= "imagem-projeto-responsivo">
+<img src= "https://github.com/NicollasAlmeida14/cronometro/blob/master/assets/projeto-cronometro.png?raw=true" width= "500px"  alt= "imagem-projeto-desktop">
+<img src= "https://github.com/NicollasAlmeida14/cronometro/blob/master/assets/projeto-cronometro-responsivo.png?raw=true" height= "300px" alt= "imagem-projeto-responsivo">
 </div>
 <br>
 <br>
-<p></p>
+<p>Com mencionado anteriormente, este projeto foi desenvolvido com o intuito de aprimorar a minha lógica de programação e consolidar alguns conceitos, como o setInterval e o clearInterval.</p>
